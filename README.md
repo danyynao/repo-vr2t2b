@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · H0UN7xlL -->
-## Notification 1/2
-Round: Round 1
-To: carystratford@myfairpoint.net, djs0317@comcast.net
-At: 2026-09-16 14:23:49
-Id: H0UN7xlL
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: spine2u@aol.com, alesh1971@yahoo.com
+At: 2026-09-16 14:23:57
+Id: qLaBv3va
